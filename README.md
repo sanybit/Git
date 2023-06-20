@@ -156,9 +156,9 @@ SSH использует пару ключей для обеспечения б�
 
 Если это первый раз, когда вы используете Git, чтобы поделиться проектом на GitHub, появится похожее предупреждение.
 
-> *The authenticity of host 'github.com (140.82.121.4)' can't be established. ED25519 key fingerprint is *
-> *SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU. This key is not known by any other names. *
-> *Are you sure you want to  continue connecting (yes/no/[fingerprint])?*
+> *The authenticity of host 'github.com (140.82.121.4)' can't be established. ED25519 key fingerprint is 
+> SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU. This key is not known by any other names.
+> Are you sure you want to  continue connecting (yes/no/[fingerprint])?*
 
 Это предупреждение сообщает, что вы никогда не соединялись с сервером GitHub. Поэтому Git не может гарантировать, что сервер является тем, за кого он себя выдаёт.
 
